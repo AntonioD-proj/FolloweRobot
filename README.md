@@ -5,7 +5,7 @@ Components used:
   2x Driver motors,
   Raspberry pi 4 (2Gb version),
   Google Coral USB accelerator - to increase the video processing,
-  Proximity sensir,
+  Proximity sensor,
   2x16 display,
   Night vision Pi Camera.
 
